@@ -1,0 +1,21 @@
+{
+    "recursive": true,
+
+    "max_iterations": 4,
+
+    "active_sets": ["mysite", "mysite dev"],
+
+    "sets": {
+        "main": {
+            "{{NAME}}": "Molly",
+            "{{NICKNAME}}": "Mrs. Puff"
+        },
+        "mysite": {
+            "{{HOSTNAME}}": "www.mysite.com",
+            "{{TITLE}}": "My Website's Title"
+        },
+        "mysite dev": {
+            "{{HOSTNAME}}": "test.mysite.com"
+        }
+    }
+}
