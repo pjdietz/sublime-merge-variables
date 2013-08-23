@@ -101,7 +101,7 @@ view.run_command("merge_variables", active_sets=["this_set", "that_set"])
 
 ### Sublime Package Control
 
-You can install Path Tools using the excellent [Package Control][] package manager for Sublime Text:
+You can install Merge Variables using the excellent [Package Control][] package manager for Sublime Text:
 
 1. Open "Package Control: Install Package" from the Command Palette (`Shift` + `Command` + `P`).
 2. Select the "Merge Variables" option to install Merge Variables.
