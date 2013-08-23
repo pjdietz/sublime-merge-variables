@@ -99,10 +99,32 @@ view.run_command("merge_variables", active_sets=["this_set", "that_set"])
 
 ## Installation
 
+### Sublime Package Control
+
+You can install Path Tools using the excellent [Package Control][] package manager for Sublime Text:
+
+1. Open "Package Control: Install Package" from the Command Palette (`Shift` + `Command` + `P`).
+2. Select the "Merge Variables" option to install Merge Variables.
+
+[Package Control]: http://wbond.net/sublime_packages/package_control
+
 ### Git Installation
 
 To install manually using Git, clone to your "Packages" directory.
 
 ```bash
-git clone git@github.com:pjdietz/path-tools.git
+git clone git@github.com:pjdietz/sublime-merge-variables.git
 ```
+
+## Author
+
+**PJ Dietz**
+
++ [http://pjdietz.com](http://pjdietz.com)
++ [http://github.com/pjdietz](http://github.com/pjdietz)
++ [http://twitter.com/pjdietz](http://twitter.com/pjdietz)
+
+## Copyright and license
+Copyright 2013 PJ Dietz
+
+[MIT License](LICENSE)
