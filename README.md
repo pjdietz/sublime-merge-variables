@@ -113,8 +113,10 @@ You can install Merge Variables using the excellent [Package Control][] package 
 To install manually using Git, clone to your "Packages" directory.
 
 ```bash
-git clone git@github.com:pjdietz/sublime-merge-variables.git
+git clone git@github.com:pjdietz/sublime-merge-variables.git "Merge Variables"
 ```
+
+**Note:** Some features such as the menu command to open the default settings will not work if the package is not installed to a directory called "Merge Variables".
 
 ## Author
 

@@ -15,7 +15,7 @@
                             {
                                 "caption": "Settings – Default",
                                 "args": {
-                                    "file": "${packages}/sublime-merge-variables/MergeVariables.sublime-settings"
+                                    "file": "${packages}/Merge Variables/MergeVariables.sublime-settings"
                                 },
                                 "command": "open_file"
                             },
